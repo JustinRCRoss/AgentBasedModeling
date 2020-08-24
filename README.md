@@ -1,2 +1,2 @@
 ## challenge question
-![] challenge question.png
+![](challenge question.png)
