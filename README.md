@@ -30,3 +30,5 @@ lty = 2)
 title(main="Challenge Question")
 
 I set the X and Y value to 1000 as the minimum. I randomy placed 50 dwelling units, 40 small circle and 12 large trees on the graph. Finally I randomly selected 7 homes and titled the plot.
+
+![graph of challenge question](challenge question.png)
