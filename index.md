@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Assignment 1
 
-You can use the [editor on GitHub](https://github.com/JustinRCRoss/Workshop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Code:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+x <- 1:1000 y <- 1:1000 east <- sample(x, size = 75, replace = TRUE) north <- sample(y, size = 75, replace = TRUE) symbols(east, north, squares = rep(.75,10), inches = FALSE) Error in symbols(east, north, squares = rep(0.75, 10), inches = FALSE) : x/y/parameter length mismatch
 
-### Markdown
+symbols(east, north, squares = rep(75,10), inches = FALSE) Error in symbols(east, north, squares = rep(75, 10), inches = FALSE) : x/y/parameter length mismatch symbols(east, north, squares = rep(.75,75), inches = FALSE) symbols(sample(x, 40, replace = TRUE),
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+sample(y, 40, replace = TRUE), 
+circles = rep(10,40), 
+inches = FALSE,
+fg = "green1",
+bg = "beige",
+add = TRUE)
+symbols(sample(x, 12, replace = TRUE),
 
-```markdown
-Syntax highlighted code block
+sample(y, 12, replace = TRUE),
+circles = rep(20,12),
+inches = FALSE,
+fg = "green4",
+bg = "beige",
+add = TRUE)
+dwellings <- cbind.data.frame(id = 1:50, east, north) Error in data.frame(..., check.names = FALSE) : arguments imply differing number of rows: 50, 75 dwellings <- cbind.data.frame(id = 1:75, east, north) locs <- sample(1:10, 7, replace = FALSE) text(x = dwellings[locs, ]$east,
 
-# Header 1
-## Header 2
-### Header 3
+y = dwellings[locs, ]$north + 50, labels = dwellings[locs, ]$id) xspline(x = dwellings[locs, 2], # Easterly coordinate
 
-- Bulleted
-- List
+y = dwellings[locs, 3], # Northernly coordinate
+shape = -1,
+lty = 2)
+title(main="Challenge Question")
 
-1. Numbered
-2. List
+I set the X and Y value to 1000 as the minimum. I randomy placed 50 dwelling units, 40 small circle and 12 large trees on the graph. Finally I randomly selected 7 homes and titled the plot.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JustinRCRoss/Workshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![graph of challenge question](challenge question.PNG)
