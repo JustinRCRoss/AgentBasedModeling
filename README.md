@@ -7,3 +7,23 @@ I set the X and Y value to 1000 as the minimum. I randomy placed 50 dwelling uni
 
 # assignment 2
 
+![liberia.png](liberia.png)
+
+
+stretch goal 1
+
+
+![Singapore.png](Singapore.png)
+
+
+
+stretch goal 2
+
+![montserrado.png](montserrado.png)
+
+
+stretch goal 3
+
+
+![details.png](details.png)
+
