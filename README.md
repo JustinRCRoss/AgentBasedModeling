@@ -32,4 +32,4 @@ stretch goal 3
 
 # assignment 3
 
-![plot.PNG(plot.PNG)
+![plot.PNG](plot.PNG)
