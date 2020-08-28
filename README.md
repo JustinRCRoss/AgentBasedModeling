@@ -27,3 +27,9 @@ stretch goal 3
 
 ![details.png](details.png)
 
+
+
+
+# assignment 3
+
+![plot.PNG(plot.PNG)
