@@ -6,7 +6,7 @@ As state above there are many uses for the dynamic stimulation models, however t
 
 
 
-Sources:
+**Sources:**
 		
   Burgess, A. (2016, February). Dynamic simulation modelling. Retrieved September 17, 2020, from https://preventioncentre.org.au/resources/dynamic_simulation_modelling/
   
