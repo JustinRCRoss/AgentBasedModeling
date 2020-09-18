@@ -6,7 +6,8 @@ The data science method that will be explored is dynamic stimulation modeling. D
 
 
 Sources:
-		Burgess, A. (2016, February). Dynamic simulation modelling. Retrieved September 17, 2020, from https://preventioncentre.org.au/resources/dynamic_simulation_modelling/
+		
+  Burgess, A. (2016, February). Dynamic simulation modelling. Retrieved September 17, 2020, from https://preventioncentre.org.au/resources/dynamic_simulation_modelling/
   Dynamic Simulation Modeling. (2015, May). Retrieved September 18, 2020, from https://cjni.net/journal/?p=5026
   Forrester, J. (2014, April). Readings. Retrieved September 17, 2020, from https://ocw.mit.edu/courses/sloan-school-of-management/15-988-system-dynamics-self-study-fall-1998-spring-1999/readings/
 
