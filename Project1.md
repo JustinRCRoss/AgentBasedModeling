@@ -3,7 +3,7 @@
 
 ![lbr_adm2_bplt](lbr_adm2_bplt.png)
 
-I chose Liberia as my country to analayze. Liberia's population isn't too big or too small compared to the rest of the countries in the world. Based on the picture most of Liberia's population lies in the northern part of the state with the most populated county in Liberia being Monterrado.The most populated city in Liberia is Greater Monrovia as noted by the abdm2 barplot.
+I chose Liberia as my country to analayze. Liberia's population isn't too big or too small compared to the rest of the countries in the world. Based on the picture most of Liberia's population lies in the northern part of the state with the most populated county in Liberia being Monterrado. The most populated city in Liberia is Greater Monrovia as noted by the abdm2 barplot.
 
 ## Plot of the de facto settlement boundaries
 
