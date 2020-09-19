@@ -20,4 +20,4 @@ The population density was again shows that most of Liberia's population lies in
 
 ## Topography
 
-![Jorquelleh_topography_3dPlot.png](Jorquelleh_topography_3dPlot.png)
+![Jorquelleh_topography_3dPlot.PNG](Jorquelleh_topography_3dPlot.PNG)
