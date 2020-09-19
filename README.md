@@ -34,8 +34,10 @@ stretch goal 3
 
 ![plot.PNG](plot.PNG)
 
+# Data Science Insight 1
 
+link: [insight 1](https://github.com/JustinRCRoss/AgentBasedModeling/blob/master/DataScienceInsight1.md)
 
 # Project 1
 
-project 1 link: ![project 1](https://github.com/JustinRCRoss/AgentBasedModeling/blob/master/Project1.md)
+project 1 link: [project 1](https://github.com/JustinRCRoss/AgentBasedModeling/blob/master/Project1.md)
