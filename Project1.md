@@ -13,6 +13,11 @@ I chose Liberia as my country to analayze. Liberia's population isn't too big or
 
 ![urbanized_areas.png](urbanized_areas.png)
 
+The population density was again shows that most of Liberia's population lies in the northern part of the state. Although most of the population lies in the norhtern part of Liberia, the southern part of Liberia contains most of its urban areas. Lastly, the graph shows that there are more people who live in urban areas in the south than in the north.
+
 ## Transportation network
 
+
 ## Topography
+
+![Jorquelleh_topography_3dPlot.png](Jorquelleh_topography_3dPlot.png)
