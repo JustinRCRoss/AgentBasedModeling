@@ -19,6 +19,7 @@ The population density was again shows that most of Liberia's population lies in
 
 ![Jorquelle_health.png](Jorquelle_health.png)
 
+The graph shows that the urban areas in the southern part of Liberia have little to no roads to travel to the hospitals and clinics in the north. The only roads that are availabe in the south are the primary roads. The north has limited primary roads, though they have access to secondary and tershiary roads. This means that access to health care is easily facilitated in the north, but not in the south.
 
 ## Topography
 
