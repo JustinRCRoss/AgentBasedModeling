@@ -38,4 +38,4 @@ stretch goal 3
 
 # Project 1
 
-![https://github.com/JustinRCRoss/AgentBasedModeling/blob/master/Project1.md]
+![link to project 1][https://github.com/JustinRCRoss/AgentBasedModeling/blob/master/Project1.md]
