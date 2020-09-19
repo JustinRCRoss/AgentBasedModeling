@@ -17,6 +17,9 @@ The population density was again shows that most of Liberia's population lies in
 
 ## Transportation network
 
+![Jorquelle_health.png](Jorquelle_health.png)
+
+![Jorquelle_roads.png](Jorquelle_roads.png)
 
 ## Topography
 
