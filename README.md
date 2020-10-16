@@ -41,3 +41,8 @@ link: [insight 1](https://github.com/JustinRCRoss/AgentBasedModeling/blob/master
 # Project 1
 
 project 1 link: [project 1](https://github.com/JustinRCRoss/AgentBasedModeling/blob/master/Project1.md)
+
+# Data Science Insight 2
+
+link: [insight 2](https://github.com/JustinRCRoss/AgentBasedModeling/blob/master/DataScienceInsight2.md)
+
