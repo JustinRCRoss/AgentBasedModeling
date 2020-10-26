@@ -25,8 +25,7 @@ The percent error I Calculated for the adm1 level was .3%. While this is a good 
 ## When compared to a randomly generated synthetic population that describes the demographic attributes of households and persons, does yours more closely approximate reality? How is yours an improvement over a synthetic population that was generated in accordance with complete spatial randomness? Generate plots and incorporate results from your work as evidence in support of an argument that the synthetic population you generated is a good approximation of the reality that existed in your selected location at that given time.
 
 
-When comparing I feel like my projection does not closely approxiamtes reality. My projection is an improvement because I am able to map the household locations on to my map spatially. I used the random forest model that I generated below to compute the accuracy of my model. The model has a lot of errors as the predicted values does not match with the education class values. My model can still be used however there will be some misclassficiation of the household data points on the projection because the model was not 100% accurate.
-
+When comparing I feel like my projection does not closely approximates reality. My projection is an improvement because I am able to map the household locations on to my map spatially. I used the random forest model that I generated below to compute the accuracy of my model. The model has a lot of errors as the predicted values does not match with the education class values. My model can still be used however there will be some misclassification of the household data points on the projection because the model was not 100% accurate.
 
 
 ![random_forest_model.PNG](random_forest_model.PNG)
