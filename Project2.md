@@ -2,7 +2,7 @@
 
 I collected the data from the DHS website using survey data from 2013 for my selected country Liberia. There were 9,239 women selected and 4,118 men selected for the survey and the number of households that were interviewed for the survey was 9,333. For the variables, I used the household id, units, weights, size, sex, age, education and wealth from the survey dataset.
 
-![adm1_level_households.PNG](adm1_level_households.PNG)
+![description_of_variables_used.PNG](description_of_variables_used.PNG)
 
 
 ##   Provide a written description of your spatially located households at the adm0 level of your selected location, including how you located each household, generated the household structure including demographic attributes of persons, and the percent error calculated. If you faced computational issues at the adm0 level when attempting to pivot from households to persons, describe those limitations.
@@ -19,8 +19,7 @@ Locating the households and generating the household structure at the adm1 level
 The percent error I Calculated for the adm1 level was .3%. While this is a good error, it is smaller than the adm0 level. This means that this population is less accurate than the adm0 population. I think it would have been helpful to try to impute or remove missing values. This affected the error level for the adm1 level. I also think it could have been helpful to use some standardization method to improve the accuracy at the adm1 level. 
 
 
-
-![description_of_variables_used.PNG](description_of_variables_used.PNG)
+![adm1_level_households.PNG](adm1_level_households.PNG)
 
 
 ## When compared to a randomly generated synthetic population that describes the demographic attributes of households and persons, does yours more closely approximate reality? How is yours an improvement over a synthetic population that was generated in accordance with complete spatial randomness? Generate plots and incorporate results from your work as evidence in support of an argument that the synthetic population you generated is a good approximation of the reality that existed in your selected location at that given time.
