@@ -2,7 +2,7 @@
 
 I collected the data from the DHS website using survey data from 2013 for my selected country Liberia. There were 9,239 women selected and 4,118 men selected for the survey and the number of households that were interviewed for the survey was 9,333. For the variables, I used the household id, units, weights, size, sex, age, education and wealth from the survey dataset.
 
-![descrtion of variables used.PNG](descrtion of variables used.PNG)
+![descrtion of variables used.PNG](description of variables used.PNG)
 
 
 ##   Provide a written description of your spatially located households at the adm0 level of your selected location, including how you located each household, generated the household structure including demographic attributes of persons, and the percent error calculated. If you faced computational issues at the adm0 level when attempting to pivot from households to persons, describe those limitations.
