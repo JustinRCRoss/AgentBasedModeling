@@ -2,12 +2,13 @@
 
 I collected the data from the DHS website using survey data from 2013 for my selected country Liberia. There were 9,239 women selected and 4,118 men selected for the survey and the number of households that were interviewed for the survey was 9,333. For the variables, I used the household id, units, weights, size, sex, age, education and wealth from the survey dataset.
 
-![descrtion of variables used.PNG](description of variables used.PNG)
+![adm1_level_households.PNG](adm1_level_households.PNG)
 
 
 ##   Provide a written description of your spatially located households at the adm0 level of your selected location, including how you located each household, generated the household structure including demographic attributes of persons, and the percent error calculated. If you faced computational issues at the adm0 level when attempting to pivot from households to persons, describe those limitations.
 
 I experienced computational issues as I did not have enough memory in my computer to expand the households at the adm0 level. The error only occurred when I try to use create my pivot variables. I was still able to perform some of the computational tasks of putting the household’s level at adm0 level despite this limitation. I was able to compute the percent error at the adm0 level and I was able to recognize a small percent error. The error was .2% which is extremely sufficient.
+
 Locating my households at the adm0 level and generating the structure required many steps. First, I calculated the average household size and use that number to randomly generate points. Next, I used that number along with my household size to randomly expand my household to my population and stored it as a variable. Next, I created a data frame that contained the household size population and its locations. Next, I created my pivots using gender, age, and education using the data frame I created. Finally, I combined all my pivots into one single data frame to analyze the results.
 
 
@@ -19,7 +20,7 @@ The percent error I Calculated for the adm1 level was .3%. While this is a good 
 
 
 
-![adm1 level households.PNG](adm1 level households.PNG)
+![description_of_variables_used.PNG](description_of_variables_used.PNG)
 
 
 ## When compared to a randomly generated synthetic population that describes the demographic attributes of households and persons, does yours more closely approximate reality? How is yours an improvement over a synthetic population that was generated in accordance with complete spatial randomness? Generate plots and incorporate results from your work as evidence in support of an argument that the synthetic population you generated is a good approximation of the reality that existed in your selected location at that given time.
