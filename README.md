@@ -54,3 +54,7 @@ project 2 link: [project 2](https://github.com/JustinRCRoss/AgentBasedModeling/b
 
 link: [insight 3](https://github.com/JustinRCRoss/AgentBasedModeling/blob/master/DataScienceInsight3.md)
 
+## Data Science Essay
+
+link: [essay] (https://github.com/JustinRCRoss/AgentBasedModeling/blob/master/Essay.md)
+
