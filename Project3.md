@@ -17,7 +17,6 @@ The process of creating the London model gave me a better understanding to creat
 ![OD_Matrix.PNG](OD_Matrix.PNG)
 
 *Names of origin and destination administrative subdivisions*:
-
 ![name_of_Origin and_Destination.PNG](name_of_Origin and_Destination.PNG)
 
 *Distances between all locations*:
