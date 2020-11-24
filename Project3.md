@@ -40,7 +40,7 @@ The process of creating the London model gave me a better understanding to creat
 
 *origination and destination names*:
 
-![name_of_origin and_destination.PNG](name_of_origin and_destination.PNG)
+![name.PNG](name.PNG)
 
 ## Describe your OD matrix and how it is used to model migration across the administrative subdivisions that comprise your selected location.
 
