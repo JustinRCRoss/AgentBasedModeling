@@ -4,10 +4,10 @@ The goal of the final project is to create a gravity model for our selected loca
 
 The process of creating the London model gave me a better understanding to create my gravity model for my selected area: Liberia. The process was mostly same with the main difference being that Liberia is a smaller country than London. For the out migration plot we can see that there are more people moving into Liberia than there is people out-migrating. One other noticeable feature from the in/out migration is that there are less people who move out of Liberia from central Liberia as opposed to north and south Liberia.
 
- * Immigration:
+ *Immigration*:
 ![immigration.PNG](immigration.PNG) 
 
- Outmigration:
+ *Outmigration*:
 ![outmigration.PNG](outmigration.PNG) 
 
 ## Produce an origin-destination matrix and include a portion of it as an exhibit in your write-up. Be sure to identify the number of rows in your data frame while also including the following. 
