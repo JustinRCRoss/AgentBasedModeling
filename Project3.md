@@ -16,13 +16,6 @@ The process of creating the London model gave me a better understanding to creat
 *OD Matrix*:
 ![OD_Matrix.PNG](OD_Matrix.PNG)
 
-*Names*:
-![name_of_Origin and_Destination.PNG](name_of_Origin and_Destination.PNG)
-
-*Distance*:
-![Distance.PNG](Distance.PNG)
-
-
 *Migration flows between all locations*:
 ![Flows.PNG](Flows.PNG)
 
