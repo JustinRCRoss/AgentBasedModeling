@@ -18,7 +18,7 @@ The process of creating the London model gave me a better understanding to creat
 
 *Names of origin and destination administrative subdivisions*:
 
-![name of Origin and Destination.PNG](name of Origin and Destination.PNG)
+![name_of_Origin and_Destination.PNG](name_of_Origin and_Destination.PNG)
 
 *Distances between all locations*:
 ![Distance.PNG](Distance.PNG)
