@@ -30,7 +30,7 @@ The process of creating the London model gave me a better understanding to creat
 
 *Geometric description of all origin and destination center points*:
 
-![geometric description of points.PNG](geometric description of points.PNG)
+![geometric_description_of_points.PNG](geometric_description_of_points.PNG)
 
 ## Describe your OD matrix and how it is used to model migration across the administrative subdivisions that comprise your selected location.
 
