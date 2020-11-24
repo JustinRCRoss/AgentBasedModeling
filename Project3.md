@@ -37,6 +37,11 @@ The process of creating the London model gave me a better understanding to creat
 
 ![geometric_description_of_points.PNG](geometric_description_of_points.PNG)
 
+
+*origination and destination names*:
+
+![name_of_origin and_destination.PNG](name_of_origin and_destination.PNG)
+
 ## Describe your OD matrix and how it is used to model migration across the administrative subdivisions that comprise your selected location.
 
 My OD matrix uses many variables. It uses centroids to get the center points, migration flows, nighttime lights, and distance from the migration flows. The main component of my OD matrix is the distance. The distance is calculated by using the migration flow destination flow and the migration flow origin flow. Through these two calculations the OD matrix shows where people started and where they moved.
