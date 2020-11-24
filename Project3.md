@@ -13,23 +13,23 @@ The process of creating the London model gave me a better understanding to creat
 ## Produce an origin-destination matrix and include a portion of it as an exhibit in your write-up. Be sure to identify the number of rows in your data frame while also including the following. 
 
 
-OD Matrix:
+*OD Matrix*:
 ![OD_Matrix.PNG](OD_Matrix.PNG)
 
-Names of origin and destination administrative subdivisions:
+*Names of origin and destination administrative subdivisions*:
 
 ![name of Origin and Destination.PNG](name of Origin and Destination.PNG)
 
-Distances between all locations:
+*Distances between all locations*:
 ![name of Origin and Destination.PNG](Distance.PNG)
 
-Migration flows between all locations:
+*Migration flows between all locations*:
 ![Flows.PNG](Flows.PNG)
 
-An additional variable:
+*An additional variable*:
 ![additional_variable_nighttime_lights.PNG](additional_variable_nighttime_lights.PNG)
 
-Geometric description of all origin and destination center points:
+*Geometric description of all origin and destination center points*:
 ![geometric description of points.PNG](geometric description of points.PNG)
 
 ## Describe your OD matrix and how it is used to model migration across the administrative subdivisions that comprise your selected location.
@@ -38,11 +38,11 @@ My OD matrix uses many variables. It uses centroids to get the center points, mi
 
 ## Produce an animation of migration and elaborate on how your OD matrix and gravity model could be integrated with your simulation
 
-animation:
+*animation*:
 
 ![output.gif](output.gif) 
 
-description:
+*description*:
 
 The simulation shows where people originated and where they moved. My od matrix includes these movements as well and it could show the more precise location of these movements by the people. The gravity model would be incorporated by adding socioeconomic and environment factors. This would be an important integration because it would show why these people are moving. It is important to know why people move so that a government or a leader could lend resources to aid these people. 
 
