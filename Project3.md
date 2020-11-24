@@ -21,7 +21,7 @@ The process of creating the London model gave me a better understanding to creat
 ![name of Origin and Destination.PNG](name of Origin and Destination.PNG)
 
 *Distances between all locations*:
-![name of Origin and Destination.PNG](Distance.PNG)
+![Distance.PNG](Distance.PNG)
 
 *Migration flows between all locations*:
 ![Flows.PNG](Flows.PNG)
