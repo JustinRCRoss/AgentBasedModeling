@@ -18,7 +18,7 @@ The process of creating the London model gave me a better understanding to creat
 ![OD_Matrix.PNG](OD_Matrix.PNG)
 
 
-*Names*:
+*names*:
 
 
 ![name_of_origin and_destination.PNG](name_of_origin and_destination.PNG)
