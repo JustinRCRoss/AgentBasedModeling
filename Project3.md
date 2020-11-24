@@ -19,7 +19,7 @@ The process of creating the London model gave me a better understanding to creat
 
 *Names*:
 
-![name_of_Origin and_Destination.PNG](name_of_Origin and_Destination.PNG)
+![name_of_origin and_destination.PNG](name_of_origin and_destination.PNG)
 
 *Distance*:
 
