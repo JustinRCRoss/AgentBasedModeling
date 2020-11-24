@@ -14,15 +14,22 @@ The process of creating the London model gave me a better understanding to creat
 
 
 *OD Matrix*:
+
 ![OD_Matrix.PNG](OD_Matrix.PNG)
 
+
 *Migration flows between all locations*:
+
 ![Flows.PNG](Flows.PNG)
 
+
 *An additional variable*:
+
 ![additional_variable_nighttime_lights.PNG](additional_variable_nighttime_lights.PNG)
 
+
 *Geometric description of all origin and destination center points*:
+
 ![geometric description of points.PNG](geometric description of points.PNG)
 
 ## Describe your OD matrix and how it is used to model migration across the administrative subdivisions that comprise your selected location.
