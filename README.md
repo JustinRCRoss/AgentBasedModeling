@@ -59,3 +59,7 @@ link: [insight 3](https://github.com/JustinRCRoss/AgentBasedModeling/blob/master
 
 link: [Essay](https://github.com/JustinRCRoss/AgentBasedModeling/blob/master/Essay.md)
 
+## Project 3
+
+project 3 link: [project 3](https://github.com/JustinRCRoss/AgentBasedModeling/blob/master/Project3.md)
+
